@@ -11,4 +11,25 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 Nous n'avons pas encore ajouter ni commit de fichier, d'où le résultat du git status
 
-5) 
+5)On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   test.txt
+
+Cela signifie que j'ai ajouter un nouveau fichier il suffit maintenant que je le commit pour le mettre à jour 
+
+6) On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   test.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Cela singifie que nous venons de commit et qu'il n'y a pas eu de changement pour le moment sur le fichier que nous avons commit
+
+11) Dans mon dépôt sur le serveur github, après la manip je vois mon fichier test.txt
+ 
