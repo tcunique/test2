@@ -1,0 +1,14 @@
+2) Le répertoire .git vient d'être crée
+3) nano test
+4) On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Nous n'avons pas encore ajouter ni commit de fichier, d'où le résultat du git status
+
+5) 
