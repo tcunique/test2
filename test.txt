@@ -32,4 +32,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Cela singifie que nous venons de commit et qu'il n'y a pas eu de changement pour le moment sur le fichier que nous avons commit
 
 11) Dans mon dépôt sur le serveur github, après la manip je vois mon fichier test.txt
+12) test modification
  
